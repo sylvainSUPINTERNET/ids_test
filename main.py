@@ -6,7 +6,6 @@ import time
 import argparse
 import requests
 import logging
-
 hac_cam_URL = "http://localhost:8888/"
 
 def worker(cam_position):
